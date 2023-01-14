@@ -20,3 +20,25 @@ Ordinal data: Qualitative data with a set order or scale
 Internal data: Data that lives within a company’s own systems
 
 External data: Data that lives, and is generated, outside of an organization
+
+Structured data: Data organized in a certain format such as rows and columns
+
+Unstructured data: Data that is not organized in any easily identifiable manner
+
+Data model: A tool for organizing data elements and how they relate to one another
+
+Data element: A piece of information in a dataset
+
+Data type: An attribute that describes a piece of data based on its values, its programming
+language, or the operations it can perform
+
+Text data type: A sequence of characters and punctuation that contains textual information
+(also called string data type)
+
+Boolean data: A data type with only two possible values, usually true or false
+
+Long data: A dataset in which each row is one time point per subject, so each subject has data
+in multiple rows
+
+Wide data: A dataset in which every data subject has a single row with multiple columns to
+hold the values of various attributes of the subject
