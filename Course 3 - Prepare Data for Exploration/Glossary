@@ -1,44 +1,44 @@
-First-party data: Data collected by an individual or group using their own resources
+👉First-party data: Data collected by an individual or group using their own resources
 
-Second-party data: Data collected by a group directly from its audience and then sold
+👉Second-party data: Data collected by a group directly from its audience and then sold
 
-Third-party data: Data provided from outside sources who didn’t collect it directly
+👉Third-party data: Data provided from outside sources who didn’t collect it directly
 
-Population: In data analytics, all possible data values in a dataset
+👉Population: In data analytics, all possible data values in a dataset
 
-Sample: In data analytics, a segment of a population that is representative of the entire
+👉Sample: In data analytics, a segment of a population that is representative of the entire
 population
 
-Discrete data: Data that is counted and has a limited number of values
+👉Discrete data: Data that is counted and has a limited number of values
 
-Continuous data: Data that is measured and can have almost any numeric value
+👉Continuous data: Data that is measured and can have almost any numeric value
 
-Nominal data: A type of qualitative data that is categorized without a set order
+👉Nominal data: A type of qualitative data that is categorized without a set order
 
-Ordinal data: Qualitative data with a set order or scale
+👉Ordinal data: Qualitative data with a set order or scale
 
-Internal data: Data that lives within a company’s own systems
+👉Internal data: Data that lives within a company’s own sys👉tems
 
-External data: Data that lives, and is generated, outside of an organization
+👉External data: Data that lives, and is generated, outside of an organizatio👉n
 
-Structured data: Data organized in a certain format such as rows and columns
+👉Structured data: Data organized in a certain format such as rows and colum👉ns
 
-Unstructured data: Data that is not organized in any easily identifiable manner
+👉Unstructured data: Data that is not organized in any easily identifiable manne👉r
 
-Data model: A tool for organizing data elements and how they relate to one another
+👉Data model: A tool for organizing data elements and how they relate to one another
 
-Data element: A piece of information in a dataset
+👉Data element: A piece of information in a dataset
 
-Data type: An attribute that describes a piece of data based on its values, its programming
+👉Data type: An attribute that describes a piece of data based on its values, its programming
 language, or the operations it can perform
 
-Text data type: A sequence of characters and punctuation that contains textual information
+👉Text data type: A sequence of characters and punctuation that contains textual information
 (also called string data type)
 
-Boolean data: A data type with only two possible values, usually true or false
+👉Boolean data: A data type with only two possible values, usually true or false
 
-Long data: A dataset in which each row is one time point per subject, so each subject has data
+👉Long data: A dataset in which each row is one time point per subject, so each subject has data
 in multiple rows
 
-Wide data: A dataset in which every data subject has a single row with multiple columns to
+👉Wide data: A dataset in which every data subject has a single row with multiple columns to
 hold the values of various attributes of the subject
