@@ -1,0 +1,31 @@
+Metadata: Data about data
+
+Relational database: A database that contains a series of tables that can be connected to
+form relationships
+
+Primary key: An identifier in a database that references a column in which each value is
+unique
+
+Foreign key: A field within a database table that is a primary key in another table
+
+Descriptive metadata: Metadata that describes a piece of data and can be used to identify it
+at a later point in time
+
+Structural metadata: Metadata that indicates how a piece of data is organized and whether it
+is part of one or more than one data collection
+
+Administrative metadata: Metadata that indicates the technical source of a digital asset
+
+Metadata repository: A database created to store metadata
+
+Data governance: A process for ensuring the formal management of a company’s data assets
+
+CSV (comma-separated values) file: A delimited text file that uses a comma to separate
+values
+
+Sorting: The process of arranging data into a meaningful order to make it easier to
+understand, analyze, and visualize
+
+Filtering: The process of showing only the data that meets a specified criteria while hiding the
+rest
+
