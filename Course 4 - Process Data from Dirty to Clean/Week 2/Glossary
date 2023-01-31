@@ -34,3 +34,7 @@ Substring: A smaller subset of a text string
 Split: A function that divides text around a specified character and puts each fragment into a
 new, separate cell
 
+Delimiter: A character that indicates the beginning or end of a data item
+
+CONCATENATE: A spreadsheet function that joins together two or more text strings
+
