@@ -13,3 +13,5 @@ Null: An indication that a value does not exist in a dataset
 Field length: A tool for determining how many characters can be keyed into a spreadsheet
 field
 
+Data validation: A tool for checking the accuracy and quality of data
+
