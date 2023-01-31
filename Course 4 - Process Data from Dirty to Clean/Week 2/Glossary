@@ -67,3 +67,6 @@ return a corresponding piece of information
 Schema: A way of describing how something, such as data, is organized
 
 Data mapping: The process of matching fields from one data source to another
+
+Syntax: The predetermined structure of a language that includes all required words, symbols,
+and punctuation, as well as their proper placement
