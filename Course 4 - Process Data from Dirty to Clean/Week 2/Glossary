@@ -1,72 +1,72 @@
-Dirty data: Data that is incomplete, incorrect, or irrelevant to the problem to be solved
+👉Dirty data: Data that is incomplete, incorrect, or irrelevant to the problem to be solved
 
-Clean data: Data that is complete, correct, and relevant to the problem being solved
+👉Clean data: Data that is complete, correct, and relevant to the problem being solved
 
-Data engineer: A professional who transforms data into a useful format for analysis and gives
+👉Data engineer: A professional who transforms data into a useful format for analysis and gives
 it a reliable infrastructure
 
-Data warehousing specialist: A professional who develops processes and procedures to
+👉Data warehousing specialist: A professional who develops processes and procedures to
 effectively store and organize data
 
-Null: An indication that a value does not exist in a dataset
+👉Null: An indication that a value does not exist in a dataset
 
-Field length: A tool for determining how many characters can be keyed into a spreadsheet
+👉Field length: A tool for determining how many characters can be keyed into a spreadsheet
 field
 
-Data validation: A tool for checking the accuracy and quality of data
+👉Data validation: A tool for checking the accuracy and quality of data
 
-Merger: An agreement that unites two organizations into a single new one
+👉Merger: An agreement that unites two organizations into a single new one
 
-Data merging: The process of combining two or more datasets into a single dataset
+👉Data merging: The process of combining two or more datasets into a single dataset
 
-Compatibility: How well two or more datasets are able to work together
+👉Compatibility: How well two or more datasets are able to work together
 
-Conditional formatting: A spreadsheet tool that changes how cells appear when values meet
+👉Conditional formatting: A spreadsheet tool that changes how cells appear when values meet
 specific conditions
 
-Remove duplicates: A spreadsheet tool that automatically searches for and eliminates
+👉Remove duplicates: A spreadsheet tool that automatically searches for and eliminates
 duplicate entries from a spreadsheet
 
-Text string: A group of characters within a cell, most often composed of letters
+👉Text string: A group of characters within a cell, most often composed of letters
 
-Substring: A smaller subset of a text string
+👉Substring: A smaller subset of a text string
 
-Split: A function that divides text around a specified character and puts each fragment into a
+👉Split: A function that divides text around a specified character and puts each fragment into a
 new, separate cell
 
-Delimiter: A character that indicates the beginning or end of a data item
+👉Delimiter: A character that indicates the beginning or end of a data item
 
-CONCATENATE: A spreadsheet function that joins together two or more text strings
+👉CONCATENATE: A spreadsheet function that joins together two or more text strings
 
-COUNTIF: A spreadsheet function that returns the number of cells that match a specified
+👉COUNTIF: A spreadsheet function that returns the number of cells that match a specified
 value
 
-LEFT: A function that returns a set number of characters from the left side of a text string
+👉LEFT: A function that returns a set number of characters from the left side of a text string
 
-LEN: A function that returns the length of a text string by counting the number of characters it
+👉LEN: A function that returns the length of a text string by counting the number of characters it
 contains
 
-MID: A function that returns a segment from the middle of a text string
+👉MID: A function that returns a segment from the middle of a text string
 
-RIGHT: A function that returns a set number of characters from the right side of a text string
+👉RIGHT: A function that returns a set number of characters from the right side of a text string
 
-TRIM: A function that removes leading, trailing, and repeated spaces in data
+👉TRIM: A function that removes leading, trailing, and repeated spaces in data
 
-Sorting: The process of arranging data into a meaningful order to make it easier to
+👉Sorting: The process of arranging data into a meaningful order to make it easier to
 understand, analyze, and visualize
 
-Filtering: The process of showing only the data that meets a specified criteria while hiding the
+👉Filtering: The process of showing only the data that meets a specified criteria while hiding the
 rest
 
-Pivot table: A data summarization tool used to sort, reorganize, group, count, total, or average
+👉Pivot table: A data summarization tool used to sort, reorganize, group, count, total, or average
 data
 
-VLOOKUP: A spreadsheet function that vertically searches for a certain value in a column to
+👉VLOOKUP: A spreadsheet function that vertically searches for a certain value in a column to
 return a corresponding piece of information
 
-Schema: A way of describing how something, such as data, is organized
+👉Schema: A way of describing how something, such as data, is organized
 
-Data mapping: The process of matching fields from one data source to another
+👉Data mapping: The process of matching fields from one data source to another
 
-Syntax: The predetermined structure of a language that includes all required words, symbols,
+👉Syntax: The predetermined structure of a language that includes all required words, symbols,
 and punctuation, as well as their proper placement
