@@ -38,3 +38,6 @@ Delimiter: A character that indicates the beginning or end of a data item
 
 CONCATENATE: A spreadsheet function that joins together two or more text strings
 
+COUNTIF: A spreadsheet function that returns the number of cells that match a specified
+value
+
