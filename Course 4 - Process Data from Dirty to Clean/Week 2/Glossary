@@ -64,3 +64,6 @@ data
 VLOOKUP: A spreadsheet function that vertically searches for a certain value in a column to
 return a corresponding piece of information
 
+Schema: A way of describing how something, such as data, is organized
+
+Data mapping: The process of matching fields from one data source to another
