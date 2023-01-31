@@ -41,3 +41,7 @@ CONCATENATE: A spreadsheet function that joins together two or more text strings
 COUNTIF: A spreadsheet function that returns the number of cells that match a specified
 value
 
+LEFT: A function that returns a set number of characters from the left side of a text string
+
+LEN: A function that returns the length of a text string by counting the number of characters it
+contains
