@@ -47,3 +47,5 @@ LEN: A function that returns the length of a text string by counting the number 
 contains
 
 MID: A function that returns a segment from the middle of a text string
+
+RIGHT: A function that returns a set number of characters from the right side of a text string
