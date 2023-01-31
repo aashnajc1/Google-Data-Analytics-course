@@ -54,3 +54,6 @@ TRIM: A function that removes leading, trailing, and repeated spaces in data
 
 Sorting: The process of arranging data into a meaningful order to make it easier to
 understand, analyze, and visualize
+
+Filtering: The process of showing only the data that meets a specified criteria while hiding the
+rest
