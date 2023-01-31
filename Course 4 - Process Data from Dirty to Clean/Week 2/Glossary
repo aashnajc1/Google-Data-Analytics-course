@@ -45,3 +45,5 @@ LEFT: A function that returns a set number of characters from the left side of a
 
 LEN: A function that returns the length of a text string by counting the number of characters it
 contains
+
+MID: A function that returns a segment from the middle of a text string
