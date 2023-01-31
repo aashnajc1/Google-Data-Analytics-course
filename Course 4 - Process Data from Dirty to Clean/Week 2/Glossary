@@ -70,3 +70,8 @@ return a corresponding piece of information
 
 👉Syntax: The predetermined structure of a language that includes all required words, symbols,
 and punctuation, as well as their proper placement
+
+👉Primary key: An identifier in a database that references a column in which each value is
+unique
+
+👉Foreign key: A field within a database table that is a primary key in another table
