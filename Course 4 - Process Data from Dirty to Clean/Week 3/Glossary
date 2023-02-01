@@ -1,0 +1,25 @@
+Structured Query Language: A computer programming language used to communicate with
+a database
+
+SELECT: The section of a query that indicates from which column(s) to extract the data
+
+FROM: The section of a query that indicates from which table(s) to extract the data
+
+WHERE: The section of a query that specifies criteria that the requested data must meet
+
+TRIM: A function that removes leading, trailing, and repeated spaces in data
+
+Typecasting: Converting data from one type to another
+
+SUBSTR: A SQL function that extracts a substring from a string variable
+
+Query: A request for data or information from a database
+
+Query language: A computer programming language used to communicate with a database
+
+CONCAT: A SQL function that adds strings together to create new text strings that can be
+used as unique keys
+
+COALESCE: A SQL function that returns non-null values in a list
+
+CAST: A SQL function that converts data from one datatype to another
