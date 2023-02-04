@@ -1,9 +1,1 @@
-CASE: A SQL statement that returns records that meet conditions by including an if/then
-statement in a query
 
-CAST: A SQL function that converts data from one datatype to another
-
-Confidence interval: A range of values that conveys how likely a statistical estimate reflects
-the population
-
-Confidence level: The probability that a sample size accurately reflects the greater population
