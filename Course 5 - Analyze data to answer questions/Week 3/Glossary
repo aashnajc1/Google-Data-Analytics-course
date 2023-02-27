@@ -1,22 +1,22 @@
-👉Aggregation: The process of collecting or gathering many separate pieces into a whole
+👉Aggregation: The process of collecting or gathering many separate pieces into a whole.
 
-👉Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection
+👉Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection.
 
-👉Subquery: A SQL query that is nested inside a larger query
+👉Subquery: A SQL query that is nested inside a larger query.
 
-👉VLOOKUP: A spreadsheet function that vertically searches for a certain value in a column to return a corresponding piece of information
+👉VLOOKUP: A spreadsheet function that vertically searches for a certain value in a column to return a corresponding piece of information.
 
-👉VALUE: A spreadsheet function that converts a text string that represents a number to a numeric value
+👉VALUE: A spreadsheet function that converts a text string that represents a number to a numeric value.
 
-👉Absolute reference: A reference within a function that is locked so that rows and columns won’t change if the function is copied
+👉Absolute reference: A reference within a function that is locked so that rows and columns won’t change if the function is copied.
 
-👉MATCH: A spreadsheet function used to locate the position of a specific lookup value
+👉MATCH: A spreadsheet function used to locate the position of a specific lookup value.
 
-👉JOIN: A SQL function that is used to combine rows from two or more tables based on a related column
+👉JOIN: A SQL function that is used to combine rows from two or more tables based on a related column.
 
-👉INNER JOIN : A SQL function that returns records with matching values in both tables
+👉INNER JOIN : A SQL function that returns records with matching values in both tables.
 
-👉LEFT JOIN: A SQL function that will return all the records from the left table and only the matching records from the right table
+👉LEFT JOIN: A SQL function that will return all the records from the left table and only the matching records from the right table.
 
 👉RIGHT JOIN: A SQL function that will return all records from the right table and only the matching records from the left
 
