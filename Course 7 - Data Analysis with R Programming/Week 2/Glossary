@@ -1,0 +1,37 @@
+👉Function (R): A body of reusable code for performing specific tasks in R
+
+👉Argument (R): Information needed by a function in R in order to run
+
+👉Variable (R): A representation of a value in R that can be stored for later use 
+
+👉Vector (R): A group of data elements of the same type stored in a one-dimensional sequence in R
+
+👉Pipe (R): A tool in R for expressing a sequence of multiple operations, represented with “%>%”
+
+👉List: A vector whose elements can be of any type
+
+👉Operator: A symbol that names the operation or calculation to be performed
+
+👉Assignment operator (R): An operator used to assign values to variables and vectors
+
+👉Arithmetic operator: Used to complete math calculations
+
+👉Package (R): A unit of reproducible R code
+
+👉CRAN (Comprehensive R Archive Network) (R): An online archive with R packages, source code, manuals, and documentation
+
+👉tidyr (R): An R package in Tidyverse used for data cleaning to make tidy data
+
+👉Tidyverse (R): A system of packages in R with a common design philosophy for data manipulation, exploration, and visualization
+
+👉ggplot2 (R): An R package in Tidyverse that creates a variety of data visualizations by applying different visual properties to the data variables in R
+
+👉readr (R): An R package in Tidyverse used for importing data
+
+👉dplyr (R): An R package in Tidyverse that offers a consistent set of functions to complete common data-manipulation tasks
+
+👉Factor (R): An object that stores categorical data where the data values are limited and usually based on a finite group, such as country or year
+
+👉Nested: Code that performs a particular function and is contained within code that performs a broader function
+
+👉Nested function: A function that is completely contained within another function
