@@ -1,1 +1,14 @@
-.
+👉Data frame: A collection of columns containing data, similar to a spreadsheet or SQL table
+
+👉Tibble (R): A streamlined variation of data frames
+
+👉Tidy data (R): A way of standardizing the organization of data within R
+
+👉head() (R): An R function that returns a preview of the column names and the first 
+few rows of a dataset
+
+👉mutate() (R): An R function that makes changes to a dataframe separating and 
+merging columns or creating new variables 
+
+👉Anscombe’s quartet: Four datasets that have nearly identical summary statistics 
+but contain different plotted values
