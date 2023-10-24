@@ -1,1 +1,13 @@
-.
+👉R Markdown: A file format for making dynamic documents with R
+
+👉Markdown (R): A syntax for formatting plain text files
+
+👉R Notebook: A document for running code and displaying the graphs and charts that visualize the code
+
+👉HTML (Hypertext Markup Language): The set of markup symbols or codes used to create a webpage
+
+👉YAML: A language that translates data to improve readability
+
+👉Code chunk: A piece of code added in an R Markdown file that is used to process, visualize or analyze data
+
+👉Delimiter: A character that indicates the beginning or end of a data item
