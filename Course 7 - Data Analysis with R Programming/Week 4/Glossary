@@ -1,1 +1,11 @@
-.
+👉Aesthetic (R): A visual property of an object in a plot 
+
+👉Geom (R): The geometric object used to represent data 
+
+👉Facets (R): A series of functions that splits data into subsets in a matrix of panels
+
+👉Labels and annotations (R): A group of R functions used for customizing a plot
+
+👉Mapping (R): The process of matching up a specific variable in a dataset with a specific aesthetic
+
+👉Annotation: Text that briefly explains data or helps focus the audience on a particular aspect of the data in a visualization
